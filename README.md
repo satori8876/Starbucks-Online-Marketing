@@ -1,8 +1,8 @@
-# Starbucks-Capstone-Project
+## Starbucks Online Marketing Strategy
 
-### Udacity Machine Learning Engineer Nanodegree
+#### *Udacity Capstone Project: Machine Learning Engineer Nanodegree Program*
 
-## Installation
+### Installation
 
     Python versions 3.*.
     Python libraries:
@@ -12,11 +12,11 @@
         Seaborn
         Scikit learn
 
-## Project Motivation
+### Project Motivation
 
 This is the final project of Udacity Machine Learning Engineer Nanodegree Program, and the objective is to  analyze the customer behavior in the Starbucks rewards mobile app, and to determine the target audience for various types of digital promotions.
 
-## File Descriptions
+### File Descriptions
 
     data:
         portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.).
